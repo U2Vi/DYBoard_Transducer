@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB_DYBoard_Transducer_CAN_ADS1113_V1.PcbDoc   15/02/2023  19:35:34
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB_DYBoard_Transducer_CAN_ADS1113_V1-RoundHoles.TXT
+ASCII SlotHoles File : PCB_DYBoard_Transducer_CAN_ADS1113_V1-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.25mm)                                            Round             44        PTH        3.11inch (78.88mm)
+T2      12mil (0.3mm)                                             Round             8         PTH        0.62inch (15.78mm)
+T3      30mil (0.762mm)                                           Slot              8         PTH        3.78inch (95.97mm)
+T4      83mil (2.1mm)                                             Round             2         PTH        0.47inch (11.94mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              62
+
+Total Processing Time (hh:mm:ss) : 00:00:00

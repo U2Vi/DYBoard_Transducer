@@ -1,0 +1,337 @@
+*************************************************************
+FileName = PCB_DYBoard_Transducer_CAN_ADS1113_V1.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Pad Master
+      File : PCB_DYBoard_Transducer_CAN_ADS1113_V1.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PCB_DYBoard_Transducer_CAN_ADS1113_V1.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PCB_DYBoard_Transducer_CAN_ADS1113_V1.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PCB_DYBoard_Transducer_CAN_ADS1113_V1.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D16
+    D17
+    D18
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PCB_DYBoard_Transducer_CAN_ADS1113_V1.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+    D28
+    D29
+    D30
+    D39
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PCB_DYBoard_Transducer_CAN_ADS1113_V1.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB_DYBoard_Transducer_CAN_ADS1113_V1.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D12
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : PCB_DYBoard_Transducer_CAN_ADS1113_V1.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : PCB_DYBoard_Transducer_CAN_ADS1113_V1.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : PCB_DYBoard_Transducer_CAN_ADS1113_V1.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D31
+    D32
+    D33
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : PCB_DYBoard_Transducer_CAN_ADS1113_V1.GM2
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : PCB_DYBoard_Transducer_CAN_ADS1113_V1.GM3
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : PCB_DYBoard_Transducer_CAN_ADS1113_V1.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : PCB_DYBoard_Transducer_CAN_ADS1113_V1.GM21
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : PCB_DYBoard_Transducer_CAN_ADS1113_V1.GM23
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : PCB_DYBoard_Transducer_CAN_ADS1113_V1.GM24
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PCB_DYBoard_Transducer_CAN_ADS1113_V1.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : PCB_DYBoard_Transducer_CAN_ADS1113_V1.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : PCB_DYBoard_Transducer_CAN_ADS1113_V1.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+    D11
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : PCB_DYBoard_Transducer_CAN_ADS1113_V1.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : PCB_DYBoard_Transducer_CAN_ADS1113_V1.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : PCB_DYBoard_Transducer_CAN_ADS1113_V1.GM20
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+*************************************************************
+
